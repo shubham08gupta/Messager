@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Messager</string>
+    <string name="title_activity_check">Check</string>
+    <string name="action_settings">Settings</string>
+</resources>
